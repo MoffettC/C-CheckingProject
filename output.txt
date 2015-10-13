@@ -1,0 +1,210 @@
+Transaction         Deposit         Check         Balance
+-----------         -------         -----         -------
+Initial Balance                                    478.83
+Deposit              127.45                        606.28
+Deposit              619.84                       1226.12
+Check                              945.12          281.00
+Check                                4.76          276.24
+Deposit               32.81                        309.05
+Check                                1.06          307.99
+Deposit              184.32                        492.31
+Check                              495.18           -2.87
+Check                              141.81         -144.68
+Check                              255.10         -399.78
+Deposit              250.00                       -149.78
+Deposit              123.88                        -25.90
+Deposit              245.05                        219.15
+Deposit              873.25                       1092.40
+Check                              981.12          111.28
+Deposit              317.84                        429.12
+Check                              812.73         -383.61
+Deposit              606.12                        222.51
+
+
+
+                   Month:           1
+
+Total number of deposits:          10
+Total amount of deposits:     3380.56
+
+  Total number of checks:           8
+  Total amount of checks:     3636.88
+
+    Total service charge:       23.78
+
+         Opening Balance:      478.83
+         Closing Balance:      198.73
+
+
+
+Transaction         Deposit         Check         Balance
+-----------         -------         -----         -------
+Adjustment           580.10                        778.83
+Initial Balance                                    778.83
+Deposit             8127.45                       8906.28
+Deposit              619.84                       9526.12
+Check                              945.12         8581.00
+Check                                4.76         8576.24
+Deposit               32.81                       8609.05
+Check                                1.06         8607.99
+Deposit              184.32                       8792.31
+Check                              495.18         8297.13
+Check                              141.81         8155.32
+Check                              255.10         7900.22
+Deposit              250.00                       8150.22
+Deposit              123.88                       8274.10
+Deposit              245.05                       8519.15
+Deposit              873.25                       9392.40
+Check                              981.12         8411.28
+Deposit              317.84                       8729.12
+Check                              812.73         7916.39
+Deposit              606.12                       8522.51
+
+
+
+                   Month:           2
+
+Total number of deposits:          10
+Total amount of deposits:    11380.56
+
+  Total number of checks:           8
+  Total amount of checks:     3636.88
+
+    Total service charge:        3.78
+
+Previous Closing Balance:      198.73
+   Accounting adjustment:      580.10
+
+         Opening Balance:      778.83
+         Closing Balance:     8518.73
+
+
+
+Transaction         Deposit         Check         Balance
+-----------         -------         -----         -------
+Adjustment                       1139.90-         7378.83
+Initial Balance                                   7378.83
+Deposit              827.45                       8206.28
+Deposit              619.84                       8826.12
+Check                              945.12         7881.00
+Check                                4.76         7876.24
+Deposit               32.81                       7909.05
+Check                                1.06         7907.99
+Deposit              184.32                       8092.31
+Check                              495.18         7597.13
+Check                              141.81         7455.32
+Check                              255.10         7200.22
+Deposit              250.00                       7450.22
+Deposit              123.88                       7574.10
+Deposit              245.05                       7819.15
+Deposit              873.25                       8692.40
+Check                              981.12         7711.28
+Deposit              317.84                       8029.12
+Check                              812.73         7216.39
+Deposit              606.12                       7822.51
+
+
+
+                   Month:           3
+
+Total number of deposits:          10
+Total amount of deposits:     4080.56
+
+  Total number of checks:           8
+  Total amount of checks:     3636.88
+
+    Total service charge:        3.78
+
+Previous Closing Balance:     8518.73
+   Accounting adjustment:     1139.90-
+
+         Opening Balance:     7378.83
+         Closing Balance:     7818.73
+
+
+
+Transaction         Deposit         Check         Balance
+-----------         -------         -----         -------
+Adjustment                       7717.90-          100.83
+Initial Balance                                    100.83
+Deposit              827.45                        928.28
+Deposit              619.84                       1548.12
+Check                              945.12          603.00
+Check                                4.76          598.24
+Deposit               32.81                        631.05
+Check                                1.06          629.99
+Deposit              184.32                        814.31
+Check                              495.18          319.13
+Check                              141.81          177.32
+Check                              255.10          -77.78
+Deposit              250.00                        172.22
+Deposit              123.88                        296.10
+Deposit              245.05                        541.15
+Deposit              873.25                       1414.40
+Check                              981.12          433.28
+Deposit              317.84                        751.12
+Check                              812.73          -61.61
+Deposit              606.12                        544.51
+
+
+
+                   Month:           4
+
+Total number of deposits:          10
+Total amount of deposits:     4080.56
+
+  Total number of checks:           8
+  Total amount of checks:     3636.88
+
+    Total service charge:       13.78
+
+Previous Closing Balance:     7818.73
+   Accounting adjustment:     7717.90-
+
+         Opening Balance:      100.83
+         Closing Balance:      530.73
+
+
+
+Transaction         Deposit         Check         Balance
+-----------         -------         -----         -------
+Adjustment           200.00                        730.73
+Initial Balance                                    730.73
+Deposit              827.45                       1558.18
+Deposit              619.84                       2178.02
+Check                              945.12         1232.90
+Check                                4.76         1228.14
+Deposit               32.81                       1260.95
+Check                                1.06         1259.89
+Deposit              184.32                       1444.21
+Check                              495.18          949.03
+Check                              141.81          807.22
+Check                              255.10          552.12
+Deposit              250.00                        802.12
+Deposit              123.88                        926.00
+Deposit              245.05                       1171.05
+Deposit              873.25                       2044.30
+Check                              981.12         1063.18
+Deposit              317.84                       1381.02
+Check                              812.73          568.29
+Deposit              606.12                       1174.41
+Deposit             6026.12                       7200.53
+
+
+
+                   Month:           5
+
+Total number of deposits:          11
+Total amount of deposits:    10106.68
+
+  Total number of checks:           8
+  Total amount of checks:     3636.88
+
+    Total service charge:        3.81
+
+Previous Closing Balance:      530.73
+   Accounting adjustment:      200.00
+
+         Opening Balance:      730.73
+         Closing Balance:     7196.72
+
